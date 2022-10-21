@@ -1,0 +1,62 @@
+body {
+    font-style: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: inherit;
+    font-size: large;
+    text-align: center;
+    text-shadow: 2px 2px 5px white;
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(./bay_10-wallpaper-3840x2160.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    
+    
+
+}
+
+li {
+ color: whitesmoke;
+ list-style-type: none;
+ padding: 0%;
+ margin: 0%;
+ padding-top: 10px;
+ margin-top: 10px;
+}
+
+ol {
+    border: 1px solid transparent;
+    border-radius: 1cm;
+    padding: 10px;
+    margin-top: 40px;
+    margin-left: 250px;
+    margin-right: 250px
+}
+ol li{
+    font-size: larger;
+}
+
+ul li{
+    display: inline-block;
+    float: right;
+}
+
+ul li a{
+    color: whitesmoke;
+    padding: 10px;
+}
+
+ul li a:hover {
+    background-color: rgb(81, 36, 139);
+    transition: 0.6s ease;
+   border-radius: 20px;
+}
+
+h1{
+    text-align: center;
+    color: black; 
+    font-family: 'Trocchi', serif; 
+    font-size: 45px; 
+    font-weight: normal; 
+    line-height: 48px;
+     margin: 0;
+}
+
